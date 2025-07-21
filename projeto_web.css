@@ -13,8 +13,8 @@ body {
 
 @font-face {
   font-family: "gotico";
-  src: url(../fontes/Deutsch.ttf) format("opentype"),
-    url(../fontes/The\Centurion\ .ttf) format("truetype");
+  src: url(fontes/Deutsch.ttf) format("opentype"),
+    url(fontes/The\Centurion\ .ttf) format("truetype");
   font-style: normal;
   font-weight: normal;
 }
