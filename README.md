@@ -1,5 +1,7 @@
 # Projeto Web 1
 
+[🔗 Site publicado: https://projetotest.netlify.app/](https://projetotest.netlify.app/)
+
 ## Descrição
 
 Este projeto é uma **cópia de estudo** do site [Padrão 10 Programado - Projeto Web](https://www.projetoweb.com.br/sites-padrao-prontos-simples-baratos-lancamentos/padrao10-programado/).  
