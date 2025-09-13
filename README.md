@@ -47,6 +47,9 @@ Todos os direitos do layout, imagens e textos pertencem aos criadores do site or
 - As imagens e fontes utilizadas são as mesmas do site original ou similares, apenas para simulação.
 - O site pode não ser responsivo em larguras muito pequenas (abaixo de 250px).## 👨‍💻 Autor
 
+
+## 👨‍💻 Autor
+
 **Richard Moraes Souza**
 - GitHub: [@richardmoraessouza](https://github.com/richardmoraessouza)
 - LinkedIn: [Richard Moraes Souza](https://www.linkedin.com/in/richard-moraes-souza/)
